@@ -1,4 +1,4 @@
-﻿# car_parking_automation
+# car_parking_automation
 An example project of a car parking system.
 
 !! Important Note:
